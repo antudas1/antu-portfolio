@@ -18,7 +18,9 @@ h1{
     width: 80%;
 }
 section{
-    display:flex
+    display:flex;
+    margin-bottom: 150px;
+    
 }
 .link-button{
     text-decoration: none;
@@ -32,4 +34,9 @@ section{
 {
     background-image: url(images/top-banner.png);
 background-repeat: no-repeat;
+}
+.top2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
